@@ -3,7 +3,7 @@ entries:
   threadql:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-03-26T03:26:49.386177724Z"
+    created: "2026-03-26T05:23:47.41991399Z"
     dependencies:
     - alias: haproxy
       condition: haproxy.enabled
@@ -12,7 +12,7 @@ entries:
       version: ~1.41
     description: A Helm chart for ThreadQL - multi-tenant natural language to SQL
       via Slack
-    digest: 2528231624e81a247bce590ded1adbf105d954a06573679dc336a62dc28327b8
+    digest: 56eabaa1e1306dd62d33a55ec2cd66afab1ed90b07f758b5a95f205bf8420d64
     home: https://github.com/emtay-com/threadql
     keywords:
     - laravel
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://emtay-com.github.io/helm-charts/threadql-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-26T03:26:49.383450225Z"
+generated: "2026-03-26T05:23:47.417280876Z"
